@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KAGE,sBAEA,CAEA,iBAEA,kBAEA,CAGA,KAEA,mCAAqC,CACrC,eAEA","file":"main.79afd2e8.chunk.css","sourcesContent":["html{\n\n\n  box-sizing: border-box-;\n  \n  }\n  \n  *, ::after, ::before{\n  \n  box-sizing: inherit;\n  \n  }\n  \n  \n  body{\n  \n  font-family: 'Montserrat', sans-serif;\n  background: #eee;\n  \n  }"]}
